@@ -13,7 +13,8 @@ A frontend clone of the popular stock trading platform **Zerodha**, built using 
 - **CSS** (for styling)  
 
 ## 📸 Screenshots  
-![Zerodha Clone](https://github.com/Mubeen-04/Zerodha_Clone/assets/your-image-link)  
+![Screenshot 2025-03-19 210746](https://github.com/user-attachments/assets/7f9e4d40-d779-4534-8013-1499cd9a88a5)
+
 
 ## 🔧 Installation  
 To run the project locally, follow these steps:  
